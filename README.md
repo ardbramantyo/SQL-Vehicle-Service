@@ -15,4 +15,4 @@ The dataset consists these field:
 #### •	2015: customers revenue for 2015
 #### •	2016e: the projected revenue for 2016. This values created by extrapolating the model based on past 2 years revenue record.
 
-The CustomerID field does not contain duplicated records and that information comes to you from the person who supplied this data. They’re saying that the dataset is well structured and it’s a guarantee from them and this can be an intrinsic knowledge. The job as a Data Scientist is to find errors inside this dataset.
+The CustomerID field does not contain duplicated records and that information comes to you from the person who supplied this data. They’re saying that the dataset is well structured and it’s a guarantee from them and this can be an intrinsic knowledge. The job as a Data Scientist is to find errors inside this dataset. You know that the total projected revenue for 2016 equals: $419,896,187.87 and you need the uploaded data is match with this value.
